@@ -1,0 +1,24 @@
+{
+  "name": "personal",
+  "version": "1.0.0",
+  "description": "sito personale",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ToledoNicola/personal.git"
+  },
+  "author": "nicola toledo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ToledoNicola/personal/issues"
+  },
+  "homepage": "https://github.com/ToledoNicola/personal#readme",
+  "dependencies": {
+    "angular": "^1.6.6",
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1"
+  }
+}
