@@ -1,0 +1,11 @@
+/* modifie navbar */
+.navbar{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.bg-light{
+    border: 0;
+}
+.navbar-destra{
+    margin-left: auto;
+}
